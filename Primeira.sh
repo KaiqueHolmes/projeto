@@ -17,3 +17,5 @@ echo -n "Digite um número qualquer: "
 read NUMERO
 _AND $NUMERO
 _VERIF
+
+#Nãoestouentendendo kkkkkkkkk
